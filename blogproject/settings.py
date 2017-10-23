@@ -24,7 +24,7 @@ SECRET_KEY = 'i3k%m-808v3_)^h7975iw4v&fl5chq41^19j@u+b*vx7dvw*q$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['104.128.88.142', 'localhost', '.lijian.com']
+ALLOWED_HOSTS = ['104.128.88.142', 'localhost', '.17rua.top']
 
 # Application definition
 
